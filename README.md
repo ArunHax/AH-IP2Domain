@@ -8,7 +8,7 @@ A lightweight ethical-hacking utility by Arun for performing fast and clean info
 
 **Download Essential Dependencies**
 ```bash
-pkg install git python nmap -y && pip install requests pyfiglet
+pkg install git python python3 -y && pip install requests pyfiglet
 ```
 
 **Clone Repository**
