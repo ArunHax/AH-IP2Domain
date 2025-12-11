@@ -9,6 +9,21 @@ A lightweight ethical-hacking utility by Arun for performing fast and clean info
 3. IP Info Lookup
 4. Fast Port Scanner
 
+# 🔗**Installation**
+
+**Download Essential Dependencies**
+```bash
+pkg install git python nmap -y && pip3 install requests 
+```
+
+**Clone Repository**
+```bash
+git clone https://github.com/ArunHax/AH-IP2Domain.git
+```
+**Run it**
+```bash
+cd AH-IP2Domain && python3 Ip2Domain.py
+```
 # 🔥 Built for students, CTF players, and security learners.
 
 
