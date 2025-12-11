@@ -3,17 +3,12 @@
 
 A lightweight ethical-hacking utility by Arun for performing fast and clean information gathering on IP addresses & domains.
 
-# 🖼️ Features
-1. Reverse DNS Lookup
-2. HTTP Header Scanner
-3. IP Info Lookup
-4. Fast Port Scanner
 
 # 🔗**Installation**
 
 **Download Essential Dependencies**
 ```bash
-pkg install git python nmap -y && pip3 install requests 
+pkg install git python nmap -y && pip install requests pyfiglet
 ```
 
 **Clone Repository**
@@ -24,6 +19,11 @@ git clone https://github.com/ArunHax/AH-IP2Domain.git
 ```bash
 cd AH-IP2Domain && python3 Ip2Domain.py
 ```
+# 🖼️ Features
+1. Reverse DNS Lookup
+2. HTTP Header Scanner
+3. IP Info Lookup
+4. Fast Port Scanner
 # 🔥 Built for students, CTF players, and security learners.
 
 
